@@ -36,7 +36,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="#">Bespoke Suits for Dogs</a>
+        <a class="navbar-brand" href="#">Bespoke Suits for Cats and Dogs</a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
@@ -118,7 +118,7 @@
             <h3 class="panel-title">Free alterations</h3>
           </div>
           <div class="panel-body">
-            Don't let this happen to your pooch! 
+            Don't let this happen to your pooch!
             Every purchase comes with free custom alterations to ensure a comfortable and snazzy fit.
             <img src="images/alterations-dog4.png" style="width:287px;height:300px;">
           </div>
