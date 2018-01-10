@@ -82,7 +82,7 @@
       </div>
     <% } %>
     <div class="jumbotron">
-      <h1>Bespoke Suits for Dogs</h1>
+      <h1>Bespoke Suits for Cats and Dogs</h1>
       <p><i>Why can't your canine companion be classy too?</i></p>
     </div>
     <div class="page-header">
@@ -108,7 +108,7 @@
           </div>
           <div class="panel-body">
             With suits these fashionable, no one will question why your pet is there!
-            <img src="images/fancy-dog3.png" style="width:295px;height:433px;">
+            <img src="images/cool-cat-suit.png" style="width:295px;height:433px;">
           </div>
         </div>
       </div>
